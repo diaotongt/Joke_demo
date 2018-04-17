@@ -15,7 +15,7 @@ class FirstViewController: UIViewController {
         
         self.view.backgroundColor = UIColor.red
 
-        // Do any additional setup after loading the view.
+        var string = "i am github"
     }
 
     override func didReceiveMemoryWarning() {
